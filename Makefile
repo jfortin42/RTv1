@@ -30,6 +30,7 @@ SOURCES = srcs/add.c \
 		  srcs/parser.c \
 		  srcs/objects.c \
 		  srcs/lighting.c \
+		  srcs/fill_median_color.c
 
 OBJECTS = $(SOURCES:.c=.o)
 
